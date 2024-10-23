@@ -12,9 +12,7 @@
 
 - ⚡ Fun fact: I waste most of my time remote working at home
 
-
 ### ⚙️ Tech Stack
 
 - Web & Mobile Development
-- Web3 Development
 - Full-stack Development
